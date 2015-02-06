@@ -1,0 +1,11 @@
+{
+  "name": "s1-team-member-handbook",
+  "description": "A nice way to get to know your new workplace",
+  "version": "0.0.1",
+  "devDependencies": {
+    "markdown-pdf": "5.1.0"
+  },
+  "scripts": {
+  },
+  "main": "compile.js"
+}
