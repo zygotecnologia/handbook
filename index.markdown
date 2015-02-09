@@ -16,6 +16,50 @@ um(a) verdadeiro(a) SumOner!
 
 Parabéns pela conquista e bem-vindo(a) a bordo!
 
+# O que nós somos e pra onde vamos
+
+## O que somos e fazemos?
+
+A SumOne conecta os pontos. Somos uma equipe de apaixonados por tecnologia, que
+querem criar conexões relevantes e verdadeiras entre empresas e clientes.
+Nosso objetivo é fazer com que nossos clientes consigam conhecer seus
+clientes de perto, criando a possibilidade de interações nunca antes vistas,
+sempre relevantes e inovadoras.
+Queremos que as marcas de nossos clientes se tonem cada vez mais amáveis e
+verdadeiras, gerando excelentes resultados e clientes que se sintam tocados não
+no bolso mas no coração.
+
+Para isso, precisamos sempre estar atentos em:
+
+1. Criar valor para nossos clientes e parceiros, criando novas formas de
+   entender e interagir com os seus clientes.
+
+2. Ter produtos que sejam simples, intuitivos e sempre coerentes com os
+   conhecimentos e com o _background_ de quem os irá utilizar. Isso serve tanto
+   para os gestores que utilizarão nossa plataforma quanto para os clientes
+   finais que utilizarão nossos produtos de interação com a marca.
+
+3. Fazer com que a jornada dos clientes de quem usa nossos produtos seja sempre
+   fantástica independente do meio: online, físico, mobile, televendas, etc...
+   Usamos tecnologias e métodos inovadores para levar novas maneiras de
+   interações para meios físicos que antes só eram possíveis nos meios virtuais.
+
+## Para onde vamos?
+
+Acreditamos que o mundo precisa de nós, que somos capazes de gerar inovações em
+nível global e que somos capazes de gerar valor para qualquer tipo de negócio
+ao redor do globo.
+Queremos ser grandes, gigantes, mas sempre com a humildade de pequenos e o seu
+espírito aventureiro.
+
+Construimos produtos produtos que:
+
+* Criam novos meios de interação.
+* Conectam os inúmeros meios que existem e que surgirão.
+* Analisam as interações e sejam capazes de enxergar oportunidades.
+* Apresentem oportunidades identificadas.
+* Consigam se comunicar com relevância nas mídias existentes e vindouras.
+
 # No que nós acreditamos
 
 ## Criar Valor
@@ -103,7 +147,14 @@ depois usar seu tempo para se sentir bem. Queremos que você se sinta bem aqui,
 e para isso sempre tentamos posicionar cada pessoa em uma posição em que ela se
 sinta bem.
 
-## A SumOne faz a parte dela para que você possa fazer a sua
+### Trabalho e Família
+
+Definimos família como todas as pessoas a quem você ama e se importa. Essas
+pessoas são as mais importantes da sua vida. Aproveite seu tempo livre
+para viver intensamente sua família, ela é a base e o motivo de tudo o que
+você for construir!
+
+## Um por todos e todos por um
 
 Queremos que você esteja focado em fazer o que você faz de melhor.
 Isso significa que você deve ter garantidas as condições que são necessárias
@@ -128,9 +179,13 @@ Isso inclui, mas não se limita a oferecer:
   * Liberdade para que você possa opinar, discutir e tomar decisões que afetem
     positivamente o ambiente.
 
-Fazemos a nossa parte para que você possa fazer a sua. Existe algo que estamos
-esquecendo? Deixamos as portas sempre abertas para que você nos ajude a fazer
-a sua vida melhor. :)
+Fazemos a nossa parte para que você possa fazer a sua. Somos um grupo de
+apaixonados que fazem de tudo para que o nosso time esteja sempre bem, vencendo
+e gerando crescimento e oportunidades para todos nós.
+
+Existe algo que estamos esquecendo? Deixamos as portas sempre abertas para que
+você nos ajude a descobrir como podemos tornar esse time ainda mais coeso
+e empolgante!
 
 ## Over deliver sem over burn
 
@@ -228,6 +283,30 @@ oferecemos.
 Os clientes da SumOne estão acima de tudo, e todos os membros do nosso time
 são encorajados a ter como prioridade absoluta ouvir, entender e ajudar nossos
 cliente, independente do time.
+
+## Olhar para frente
+
+Não acreditamos em desculpas, acreditamos em determinação e em pró-atividade.
+
+Sempre que houver algo que você não conseguiu fazer como se propôs, pense não
+em justificar o porquê de você não ter conseguido, guarde esse motivo como
+aprendizado, pense em como você pode dar a volta por cima e resolver as
+questões em aberto.
+
+Estamos sempre dispostos a te ajudar a encontrar o caminho, mas não gostamos
+de ouvir desculpas, gostamos de ouvir planos!
+
+## Método Científico / Abrace a falha como parte do processo
+
+Não acreditamos em _bala de prata_, acreditamos em melhoria contínua. Somos
+metódicos e acreditamos que a melhor forma para se inovar e descobrir coisas
+capazes de gerar valor de verdade é usar o método científico: observação,
+problematização, formulação de hipóteses, experimentação e conclusão.
+
+Nem sempre as suas hipóteses serão verdadeiras, e isso faz parte do processo!
+
+Para inovar e descobrir coisas novas é preciso se arriscar a falhar, e por isso
+abraçamos a falha, desde que ela esteja como um meio para um fim maior.
 
 # O que esperamos de você?
 
