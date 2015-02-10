@@ -306,7 +306,7 @@ problematização, formulação de hipóteses, experimentação e conclusão.
 Nem sempre as suas hipóteses serão verdadeiras, e isso faz parte do processo!
 
 Para inovar e descobrir coisas novas é preciso se arriscar a falhar, e por isso
-abraçamos a falha, desde que ela esteja como um meio para um fim maior.
+abraçamos a falha. 
 
 # O que esperamos de você?
 
@@ -334,7 +334,12 @@ estar no escritório. Caso resolva mudar seu horário, alinhe antes com o líder
 do seu time!
 
 Caso não consiga chegar no horário ou tenha algum compromisso externo, avise o
-líder do seu time com antecedência.
+líder do seu time com antecedência, de preferência 48hs antes.
+
+#### Horários Especiais
+
+Algumas funções não trabalham em equipe e podem praticar horários especiais,
+bem como estagiários e consultores externos ou colaboradores temporários.
 
 ### Horário de Almoço
 
