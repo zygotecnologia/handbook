@@ -1,5 +1,7 @@
 # SumOne
 
+![SumOneLogo](http://i.imgur.com/PfszhSG.png)
+
 # Bem-Vindo, SumOner!
 
 Você passou por nosso processo seletivo, fez uma entrevista, assinou os papéis
