@@ -2,6 +2,8 @@
 
 ![SumOneLogo](http://i.imgur.com/PfszhSG.png)
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />O trabalho <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">SumOne Team Member Handbook</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.github.com/sumoners/s1-team-member-handbook" property="cc:attributionName" rel="cc:attributionURL">SumOne</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons - Atribuição-CompartilhaIgual 4.0 Internacional</a>.<br />Baseado no trabalho disponível em <a xmlns:dct="http://purl.org/dc/terms/" href="http://www.github.com/sumoners/s1-team-member-handbook" rel="dct:source">http://www.github.com/sumoners/s1-team-member-handbook</a>.<br />Podem estar disponíveis autorizações adicionais às concedidas no âmbito desta licença em <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.github.com/sumoners/s1-team-member-handbook" rel="cc:morePermissions">http://www.github.com/sumoners/s1-team-member-handbook</a>.
+
 # Bem-Vindo, SumOner!
 
 Você passou por nosso processo seletivo, fez uma entrevista, assinou os papéis
