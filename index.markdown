@@ -53,22 +53,23 @@ Para isso, precisamos sempre estar atentos em:
 Acreditamos que o mundo precisa de nós, que somos capazes de gerar inovações em
 nível global e que somos capazes de gerar valor para qualquer tipo de negócio
 ao redor do globo.
-Queremos ser grandes, gigantes, mas sempre com a humildade de pequenos e o seu
-espírito aventureiro.
+Queremos ser grandes, gigantes, mas sempre com a humildade de pequenos, seu
+espírito aventureiro e com a dose certa de responsabilidade.
 
-Construimos produtos produtos que:
+Construimos produtos que:
 
 * Criam novos meios de interação.
 * Conectam os inúmeros meios que existem e que surgirão.
 * Analisam as interações e sejam capazes de enxergar oportunidades.
 * Apresentem oportunidades identificadas.
-* Consigam se comunicar com relevância nas mídias existentes e vindouras.
+* Consigam se comunicar com relevância nas mídias existentes e que ainda vão
+  pintar por aí.
 
 # No que nós acreditamos
 
 ## Criar Valor
 
-Não queremos apenas criar produtos que não sejam apenas bonitos, fáceis de usar
+Não queremos apenas criar produtos que sejam apenas bonitos, fáceis de usar
 e legais de mostrar para os outros. Queremos criar produtos que realmente sejam
 capazes de melhorar a vida do nosso cliente, capazes de cumprir os objetivos
 propostos e gerar valor.
@@ -76,7 +77,7 @@ propostos e gerar valor.
 Seguindo uma regra de economia básica, valor é diretamente proporcional a dois
 fatores: escassez e desejabilidade.
 A _desejabilidade_ de nossos produtos vem dos resultados que somos capazes de
-gerar para nossos clientes e a _escassez_ está na nossa capacidade de encarar
+gerar para nossos clientes. A _escassez_ está na nossa capacidade de encarar
 desafios complexos que requerem uma grande capacidade de organização,
 conhecimento e disciplina para serem resolvidos.
 
@@ -149,11 +150,13 @@ Na SumOne, sabemos que cada pessoa é especial e possui interesses e vontades
 especiais. Não acreditamos você deva vir para a empresa "carregar o fardo" para
 depois usar seu tempo para se sentir bem. Queremos que você se sinta bem aqui,
 e para isso sempre tentamos posicionar cada pessoa em uma posição em que ela se
-sinta bem.
+sinta bem. Além disso, esperamos que aqui você construa pontes e relações
+verdadeiras.
 
 ### Trabalho e Família
 
-Definimos família como todas as pessoas a quem você ama e se importa. Essas
+Definimos família não só como pai e mãe mas também como os irmãos que
+escolhemos ao longo da vida, pessoas com quem você se importa. Essas
 pessoas são as mais importantes da sua vida. Aproveite seu tempo livre
 para viver intensamente sua família, ela é a base e o motivo de tudo o que
 você for construir!
@@ -216,7 +219,7 @@ Somos abertos e honestos. Aceitamos críticas, não alimentamos tabus e estamos
 sempre nos comunicando para assegurar que estamos indo no caminho certo.
 
 Nossos gestores devem estar sempre preparados para lidar com quaisquer dúvidas
-que possam surgir e devem alinhar diáriamente com suas equipes para entender se
+que possam surgir e devem alinhar diariamente com suas equipes para entender se
 existe algum mal entendido antes que ele se torne um problema.
 
 Sinta-se incentivado sempre a troca de ideias e experiências, já que isso ajuda
@@ -300,6 +303,8 @@ questões em aberto.
 Estamos sempre dispostos a te ajudar a encontrar o caminho, mas não gostamos
 de ouvir desculpas, gostamos de ouvir planos!
 
+Da palavra explicação, tire o "explic" e fique com a "AÇÃO"! :)
+
 ## Método Científico / Abrace a falha como parte do processo
 
 Não acreditamos em _bala de prata_, acreditamos em melhoria contínua. Somos
@@ -320,9 +325,6 @@ Trabalhamos em equipe e precisamos que você esteja conosco para conseguirmos
 cumprir nossos objetivos. Não vir ao trabalho quando estiver em plenas condições
 é uma falta de compromisso com seus colegas, e vai atrapalhar o andamento da
 sua equipe.
-
-Caso você fique três dias sem comparecer ao trabalho, considera-se que você
-abandonou o trabalho, conforme definido na CLT.
 
 ### Horários Flexíveis
 
