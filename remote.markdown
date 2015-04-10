@@ -120,10 +120,18 @@ Toda semana, um engenheiro fica com dedicação exclusiva a dar suporte, 100%
 do tempo da semana. Isso faz com que os outros engenheiros consigam trabalhar
 focados e traz o time para bem próximo do cliente.
 
-**Nota do autor**
-Precisamos discutir como vamos operacionalizar isso, já que existem produtos
-e plataformas diferentes. Como um dev Rails vai dar suporte num app iOS?
-Ideias? Pull Request! :)
+Esse engenheiro encarregado do suporte fica também encarregado de fazer um
+_housekeeping_, _bugfixing_, criando testes em áreas sem cobertura e outras
+atividades virtuosas enquanto não estiver resolvendo problemas de suporte.
+
+### Dev iOS vs Dev Rails
+Existem alguns problemas que só podem ser resolvidos por devs específicos.
+Quando uma buxa dessas chegar, o engenheiro de plantão no suporte vai ficar
+responsável por fazer uma "filtragem" do que é urgente e precisa interromper o
+sprint de alguém e o que pode esperar até o próximo sprint (ou até a próxima
+encarnação).
+Em cada sprint, temos espaço para apenas duas "atividades não planejadas" serem
+executadas, então o dev tem que usar esse "poder" com sabedoria.
 
 ## Code Reviews
 Todo e qualquer _pull request_ que esteja do GitHub deve passar por um code
@@ -137,7 +145,8 @@ para fazermos pequenas _lightning talks_. Toda semana alguém é escolhido para
 falar a respeito de algo, sendo que nas semanas em que tivermos novos membros
 na equipe essas pessoas são automaticamente selecionadas.
 É uma boa hora pra trocar ideias, contar algumas piadas e aprender coisas
-novas com os colegas. Lightning talks duram, no máximo, 15 minutos!
+novas com os colegas. Lightning talks duram, no máximo, 15 minutos, e o hangout
+em geral meia hora!
 
 ## 1:1 mensal com as lideranças
 Todo mês você vai trocar ideias com o seu gerente, serão abordadas 4 coisas
@@ -152,10 +161,13 @@ Easy breezy, as conversas terão no mínimo meia hora, então prepare o gogó
 para trocar boas ideias!
 
 ## Friday Posts
-Posts semanais no blog interno da empresa (P2 Theme) detalhando *sem preguiça*
-o que você entregou nessa semana e o que virá pela frente na semana que vem.
+Posts semanais (toda sexta-feira) no blog interno da empresa (P2 Theme)
+detalhando *sem preguiça* o que você entregou nessa semana e o que virá pela
+frente na semana que vem.
 Dessa forma sempre nos mantemos atualizados sobre o que está acontecendo na
 empresa de uma forma prática, rápida e dinâmica.
+
+**Importante:**
 É seu papel não só postar mas também comentar, dar dicas, sugestões, etc nos
 posts dos colegas.
 
