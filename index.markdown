@@ -315,7 +315,7 @@ problematização, formulação de hipóteses, experimentação e conclusão.
 Nem sempre as suas hipóteses serão verdadeiras, e isso faz parte do processo!
 
 Para inovar e descobrir coisas novas é preciso se arriscar a falhar, e por isso
-abraçamos a falha. 
+abraçamos a falha.
 
 # O que esperamos de você?
 
@@ -326,14 +326,11 @@ cumprir nossos objetivos. Não vir ao trabalho quando estiver em plenas condiç�
 é uma falta de compromisso com seus colegas, e vai atrapalhar o andamento da
 sua equipe.
 
-### Horários Flexíveis
+### Flex Time
 
 Temos horários flexíveis mas contamos com você no escritório em nossas
-_core hours_. Nosso escritório abre oficialmente as 8hs e opera até as 18hs.
-
-Você pode escolher chegar mais cedo, a partir das 8hs ou chegar mais tarde e ir
-embora mais tarde, até as 19:30hs. Você **deve** estar no escritório as 9:30,
-quando são realizadas todas as reuniões de alinhamento.
+_core hours_. Basicamente todos tem que estar no escritório as 14hs (time
+não remoto).
 
 Você **deve** alinhar com o líder de seu time qual horário você vai escolher
 estar no escritório. Caso resolva mudar seu horário, alinhe antes com o líder
