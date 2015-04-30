@@ -29,7 +29,7 @@ querem criar conexões relevantes e verdadeiras entre empresas e clientes.
 Nosso objetivo é fazer com que nossos clientes consigam conhecer seus
 clientes de perto, criando a possibilidade de interações nunca antes vistas,
 sempre relevantes e inovadoras.
-Queremos que as marcas de nossos clientes se tonem cada vez mais amáveis e
+Queremos que as marcas de nossos clientes se tornem cada vez mais amáveis e
 verdadeiras, gerando excelentes resultados e clientes que se sintam tocados não
 no bolso mas no coração.
 
@@ -133,7 +133,7 @@ Isso gera motivação e define um padrão de ótimo trabalho a ser entregue, por
 toda a equipe. Acredite, _orgulho de criador_ é uma das melhores sensações que
 você pode ter na vida!
 
-Todo nosso trabalho na SumOne deve ser feito com carinho e cuidado. 
+Todo nosso trabalho na SumOne deve ser feito com carinho e cuidado.
 
 ## Vida e trabalho precisam ser equilibrados
 
@@ -432,7 +432,7 @@ Se ainda assim, você precisar ou optar por usar um computador pessoal para
 trabalhar, existem alguns requisitos para que você possa fazê-lo:
 
 1. Pedir autorização para o líder de sua equipe.
-2. Ter o HD do seu computador criptografado com senha requerida no _screen 
+2. Ter o HD do seu computador criptografado com senha requerida no _screen
    saver_ e no login, com no mínimo 10 caracteres, misturando letras e números.
 3. Se comprometer a remover qualquer conteúdo da empresa após o término da
    necessidade do mesmo.
@@ -468,7 +468,7 @@ Quando o seu telefone toca, você tira o seu foco e dos seus colegas.
 Você pode atender ao telefone, preferencialmente no lado de fora da sala ou em
 algum lugar isolado do resto do time (ninguém precisa saber da sua conversa).
 
-Evite excessos, tente ao máximo evitar ter que falar no celular em respeito 
+Evite excessos, tente ao máximo evitar ter que falar no celular em respeito
 aos seus colegas!
 
 ## Propriedades da SumOne
@@ -520,7 +520,7 @@ seu líder de equipe.
 
 Se você achou a ferramenta que vai te levar aos céus da produtividade, respire
 fundo, converse com seu líder de equipe, procure outras pessoas na empresa que
-possam estar interessados em comprar a licença da ferramenta (ou pagar a 
+possam estar interessados em comprar a licença da ferramenta (ou pagar a
 assinatura) e, depois de ter quórum, vá aos céus com a ferramenta :)
 
 Gostamos de entregar a você sempre as melhores ferramentas, tanto quanto
@@ -545,7 +545,7 @@ Temos algumas regras com relação ao uso da biblioteca:
 * O prazo máximo que você pode ficar com um livro em casa é 15 dias, quando
   chegar a 15 dias você deve devolver o livro, que deve ficar disponível por
   ao menos mais dois dias antes de você poder levá-lo de novo para casa.
-* Não sublinhe, escreva, nem mesmo a lápis, qualquer coisa nos livros da 
+* Não sublinhe, escreva, nem mesmo a lápis, qualquer coisa nos livros da
   SumOne.
 
 ## Viagens
