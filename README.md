@@ -92,9 +92,9 @@ sem nos qualificar cada vez mais. Não continuar aprendendo é a mesma coisa que
 não ser o melhor que você pode ser, o que prejudica os seus colegas que querem
 crescer.
 
-Por último, mas não menos importante, somos orientados ao "WOW!". Em tudo que
-fazemos, miramos em fazer a melhor experiência possível, em colocar um "tempero"
-em tudo que fazemos, por menos importante que pareça. Surpreender positivamente
+Por último, mas não menos importante, somos orientados ao "**WOW!**". Em tudo
+que fazemos, miramos em fazer a melhor experiência possível, em colocar um
+"tempero" em tudo, por menos importante que pareça. Surpreender positivamente
 faz bem tanto para quem recebe quanto para quem oferece.
 
 ## Para onde vamos?
